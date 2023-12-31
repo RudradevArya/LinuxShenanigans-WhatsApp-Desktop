@@ -11,7 +11,7 @@
 
 </p>
 
-<img src="https://img.shields.io/github/languages/top/RudradevArya/LinuxShenanigans-WhatsApp-Desktop" alt="GitHub top language" />
+<img src="https://img.shields.io/github/languages/top/RudradevArya/LinuxShenanigans-WhatsApp-Desktop" alt="Shell Script" />
 </div>
 
 ---
