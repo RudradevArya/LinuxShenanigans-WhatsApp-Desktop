@@ -17,11 +17,11 @@
 ---
 
 ## 📖 Table of Contents
-- [📍 But WHY?](#-But-WHY??)
-- [📦 Just use Web?](#-Just-use-WhatsApp-Web!!-Right?)
-- [📂 Note](#-Note)
-- [🚀 Config Steps](#-Config-Steps)
-- [🛣 Project TaskList](#-Project-TaskList)
+- [📍 But WHY?](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#but-why)
+- [📦 Just use Web?](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#just-use-whatsapp-web-right)
+- [📂 Note](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#note)
+- [🚀 Config Steps](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#-config-steps)
+- [🛣 Project TaskList](https://github.com/RudradevArya/LinuxShenanigans-WhatsApp-Desktop#--project-tasklist)
 
 ---
 
