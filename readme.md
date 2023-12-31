@@ -83,3 +83,6 @@ This comment using the Superuser access changes the mode of the file to [e]xecut
 > - [ ] `ℹ️  Enjoy`
 
 ---
+
+### Sauce 1 :: https://askubuntu.com/questions/684415/install-whatsapp-webapp-on-ubuntu/1144265#1144265
+### Sauce 2 :: https://stackoverflow.com/questions/56327515/ubuntu-19-04-make-custom-shortcut-like-super-num-favorite-app-create-show/56327729#56327729
